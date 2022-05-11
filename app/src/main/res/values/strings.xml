@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">History Quiz</string>
+
+    <string name="question1">Who spoke on having a dream on a Tuesday morning in the year 1963</string>
+    <string name="question2">What year did was bill of rights passed </string>
+    <string name="checkbox_year">1789</string>
+    <string name="checkbox_year1">1879</string>
+    <string name="checkbox_year2">1978</string>
+    <string name="question3">When did America gain independence</string>
+    <string name="radio_one">1767</string>
+    <string name="radio_two">1677</string>
+    <string name="radio_three">1776</string>
+    <string name="radio_four">1876</string>
+    <string name="question4">Who is the 16th American president</string>
+    <string name="president_question_1">Andrew Johnson</string>
+    <string name="president_question_3">Abraham Lincoln</string>
+    <string name="president_question_2">James Buchanan</string>
+    <string name="question5">What year did Nigeria become a republic</string>
+    <string name="question5_radio1">1963</string>
+    <string name="question5_radio2">1960</string>
+    <string name="question5_radio3">1965</string>
+    <string name="evaluate_button">Submit</string>
+    <string name="answer">Answer</string>
+
+</resources>
